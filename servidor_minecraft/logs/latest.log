@@ -1,104 +1,97 @@
-[20:18:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[20:18:16] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[20:18:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[20:18:16] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[20:18:16] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[20:18:17] [main/INFO] [FML]: Searching /workspaces/jony-lo-tiene-que-pedir/servidor_minecraft/./mods for mods
-[20:18:17] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.12.jar
-[20:18:17] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[20:18:17] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[20:18:17] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[20:18:17] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
-[20:18:17] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
-[20:18:17] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from voicechat-forge-1.12.2-2.5.26.jar
-[20:18:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:18:17] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[20:18:17] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/jony-lo-tiene-que-pedir/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.12.jar Service=LaunchWrapper Env=SERVER
-[20:18:17] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
-[20:18:17] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[20:18:17] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[20:18:17] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[20:18:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[20:18:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:18:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:18:17] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[20:18:17] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[20:18:17] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[20:18:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:18:19] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[20:18:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:18:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:18:19] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[20:18:19] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@6d6cb754
-[20:18:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[20:18:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:18:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[20:18:19] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[20:18:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[20:18:19] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[20:18:19] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[20:18:20] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[20:18:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[20:18:24] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[20:18:24] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[20:18:25] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[20:18:25] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[20:18:25] [Server thread/INFO] [FML]: Searching /workspaces/jony-lo-tiene-que-pedir/servidor_minecraft/./mods for mods
-[20:18:25] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.12
-[20:18:26] [Server thread/INFO] [FML]: Disabling mod antiqueatlasoverlay it is client side only.
-[20:18:26] [Server thread/WARN] [FML]: Mod voicechat is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.5.26
-[20:18:26] [Server thread/INFO] [FML]: Forge Mod Loader has identified 24 mods to load
-[20:18:26] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[20:18:26] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
-[20:18:26] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, securitycraft, antiqueatlas, appleskin, backpack, creativecore, firstaid, cfm, gravestone, cgm, jei, lostcities, playerrevive, simpleplanes, srparasites, toughasnails, vehicle, voicechat, xlfoodmod] at CLIENT
-[20:18:26] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, securitycraft, antiqueatlas, appleskin, backpack, creativecore, firstaid, cfm, gravestone, cgm, jei, lostcities, playerrevive, simpleplanes, srparasites, toughasnails, vehicle, voicechat, xlfoodmod] at SERVER
-[20:18:27] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack-3.0.2-1.12.2 (1).jar, however there is no signature matching that description
-[20:18:27] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[20:18:27] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[20:18:28] [Server thread/INFO] [FML]: Found 1272 ObjectHolder annotations
-[20:18:28] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[20:18:28] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[20:18:28] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[20:18:28] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
-[20:18:28] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
-[20:18:29] [Server thread/INFO] [firstaid]: First Aid version 1.6.22 starting
-[20:18:29] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Found status: AHEAD Target: null
-[20:18:29] [Forge Version Check/INFO] [forge.VersionCheck]: [xlfoodmod] Starting version check at https://raw.githubusercontent.com/mariot7/XL-Food-Mod/master/update.json
-[20:18:29] [Forge Version Check/INFO] [forge.VersionCheck]: [xlfoodmod] Found status: UP_TO_DATE Target: null
-[20:18:29] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[20:18:30] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[20:18:30] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
-[20:18:30] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[20:18:30] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
-[20:18:31] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[20:18:31] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[20:18:31] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[20:18:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `temperature_spread`, expected `toughasnails`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:32] [Server thread/INFO] [FML]: Applying holder lookups
-[20:18:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:32] [Server thread/INFO] [firstaid]: Don't worry, the minecraft poison override IS intended.
-[20:18:32] [Server thread/INFO] [FML]: Holder lookups applied
-[20:18:32] [Server thread/INFO] [Backpack]: Loading items...
-[20:18:32] [Server thread/INFO] [Backpack]: 15 item features loaded.
-[20:18:32] [Server thread/INFO] [FML]: Applying holder lookups
-[20:18:32] [Server thread/INFO] [FML]: Holder lookups applied
-[20:18:33] [Server thread/INFO] [FML]: Applying holder lookups
-[20:18:33] [Server thread/INFO] [FML]: Holder lookups applied
-[20:18:33] [Server thread/INFO] [FML]: Applying holder lookups
-[20:18:33] [Server thread/INFO] [FML]: Holder lookups applied
-[20:18:33] [Server thread/INFO] [FML]: Injecting itemstacks
-[20:18:33] [Server thread/INFO] [FML]: Itemstack injection complete
-[20:18:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[20:18:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[20:18:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[20:18:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[20:18:33] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[20:18:34] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:18:34] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[20:18:34] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:18:34] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:18:34] [Server thread/ERROR] [FML]: Parsing error loading recipe simpleplanes:upgrades/junk_engine
+[16:11:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:11:57] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:11:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:11:57] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[16:11:57] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[16:12:01] [main/INFO] [FML]: Searching /workspaces/jony-lo-tiene-que-pedir/servidor_minecraft/./mods for mods
+[16:12:02] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.12.jar
+[16:12:02] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:12:02] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:12:02] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[16:12:02] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[16:12:02] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from voicechat-forge-1.12.2-2.5.26.jar
+[16:12:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:12:02] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[16:12:02] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/jony-lo-tiene-que-pedir/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.12.jar Service=LaunchWrapper Env=SERVER
+[16:12:02] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[16:12:02] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[16:12:02] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[16:12:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:12:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:12:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:12:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:12:05] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:12:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:12:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:12:06] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[16:12:06] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@7ff2b8d2
+[16:12:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:12:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:12:06] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:12:06] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[16:12:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:12:06] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[16:12:08] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[16:12:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[16:12:14] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[16:12:15] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[16:12:15] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[16:12:16] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[16:12:16] [Server thread/INFO] [FML]: Searching /workspaces/jony-lo-tiene-que-pedir/servidor_minecraft/./mods for mods
+[16:12:17] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.12
+[16:12:17] [Server thread/INFO] [FML]: Disabling mod antiqueatlasoverlay it is client side only.
+[16:12:18] [Server thread/WARN] [FML]: Mod voicechat is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.5.26
+[16:12:18] [Server thread/INFO] [FML]: Forge Mod Loader has identified 24 mods to load
+[16:12:18] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[16:12:18] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
+[16:12:19] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, securitycraft, antiqueatlas, appleskin, backpack, creativecore, firstaid, cfm, gravestone, cgm, jei, lostcities, playerrevive, simpleplanes, srparasites, toughasnails, vehicle, voicechat, xlfoodmod] at CLIENT
+[16:12:19] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, securitycraft, antiqueatlas, appleskin, backpack, creativecore, firstaid, cfm, gravestone, cgm, jei, lostcities, playerrevive, simpleplanes, srparasites, toughasnails, vehicle, voicechat, xlfoodmod] at SERVER
+[16:12:20] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack-3.0.2-1.12.2 (1).jar, however there is no signature matching that description
+[16:12:22] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[16:12:23] [Server thread/INFO] [FML]: Found 1272 ObjectHolder annotations
+[16:12:23] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[16:12:23] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[16:12:23] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[16:12:23] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
+[16:12:23] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[16:12:25] [Server thread/INFO] [firstaid]: First Aid version 1.6.22 starting
+[16:12:27] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[16:12:27] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[16:12:27] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Found status: AHEAD Target: null
+[16:12:27] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[16:12:28] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
+[16:12:28] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[16:12:28] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[16:12:28] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[16:12:28] [Forge Version Check/INFO] [forge.VersionCheck]: [xlfoodmod] Starting version check at https://raw.githubusercontent.com/mariot7/XL-Food-Mod/master/update.json
+[16:12:28] [Forge Version Check/INFO] [forge.VersionCheck]: [xlfoodmod] Found status: UP_TO_DATE Target: null
+[16:12:28] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
+[16:12:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `temperature_spread`, expected `toughasnails`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:30] [Server thread/INFO] [FML]: Applying holder lookups
+[16:12:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:30] [Server thread/INFO] [firstaid]: Don't worry, the minecraft poison override IS intended.
+[16:12:30] [Server thread/INFO] [FML]: Holder lookups applied
+[16:12:30] [Server thread/INFO] [Backpack]: Loading items...
+[16:12:30] [Server thread/INFO] [Backpack]: 15 item features loaded.
+[16:12:31] [Server thread/INFO] [FML]: Applying holder lookups
+[16:12:31] [Server thread/INFO] [FML]: Holder lookups applied
+[16:12:33] [Server thread/INFO] [FML]: Applying holder lookups
+[16:12:33] [Server thread/INFO] [FML]: Holder lookups applied
+[16:12:33] [Server thread/INFO] [FML]: Applying holder lookups
+[16:12:33] [Server thread/INFO] [FML]: Holder lookups applied
+[16:12:33] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:12:33] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:12:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[16:12:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[16:12:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[16:12:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[16:12:33] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[16:12:33] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:12:33] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[16:12:33] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:12:33] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:12:34] [Server thread/ERROR] [FML]: Parsing error loading recipe simpleplanes:upgrades/junk_engine
 com.google.gson.JsonParseException: Missing data for item 'minecraft:coal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:265) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -116,64 +109,64 @@ com.google.gson.JsonParseException: Missing data for item 'minecraft:coal'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[20:18:34] [Server thread/INFO] [Backpack]: Loading recipes...
-[20:18:34] [Server thread/INFO] [Backpack]: 15 recipe features loaded.
-[20:18:34] [Server thread/INFO] [FML]: Applying holder lookups
-[20:18:34] [Server thread/INFO] [FML]: Holder lookups applied
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:34] [Server thread/INFO] [voicechat]: [voicechat] Compatibility version 18
-[20:18:34] [Server thread/INFO] [voicechat]: [voicechat] Loading plugins
-[20:18:34] [Server thread/INFO] [voicechat]: [voicechat] Loaded 0 plugin(s)
-[20:18:34] [Server thread/INFO] [voicechat]: [voicechat] Initializing plugins
-[20:18:34] [Server thread/INFO] [voicechat]: [voicechat] Initialized 0 plugin(s)
-[20:18:34] [Server thread/INFO] [FML]: Injecting itemstacks
-[20:18:34] [Server thread/INFO] [FML]: Itemstack injection complete
-[20:18:35] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[20:18:35] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 24 mods
-[20:18:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[20:18:35] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[20:18:36] [Server thread/INFO] [FML]: Applying holder lookups
-[20:18:36] [Server thread/INFO] [FML]: Holder lookups applied
-[20:18:36] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@2dd644be)
-[20:18:36] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement simpleplanes:recipes/plane_ft
+[16:12:34] [Server thread/INFO] [Backpack]: Loading recipes...
+[16:12:34] [Server thread/INFO] [Backpack]: 15 recipe features loaded.
+[16:12:34] [Server thread/INFO] [FML]: Applying holder lookups
+[16:12:34] [Server thread/INFO] [FML]: Holder lookups applied
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:12:35] [Server thread/INFO] [voicechat]: [voicechat] Compatibility version 18
+[16:12:35] [Server thread/INFO] [voicechat]: [voicechat] Loading plugins
+[16:12:35] [Server thread/INFO] [voicechat]: [voicechat] Loaded 0 plugin(s)
+[16:12:35] [Server thread/INFO] [voicechat]: [voicechat] Initializing plugins
+[16:12:35] [Server thread/INFO] [voicechat]: [voicechat] Initialized 0 plugin(s)
+[16:12:35] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:12:35] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:12:36] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[16:12:36] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 24 mods
+[16:12:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[16:12:36] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[16:12:37] [Server thread/INFO] [FML]: Applying holder lookups
+[16:12:37] [Server thread/INFO] [FML]: Holder lookups applied
+[16:12:38] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@2c99f4f6)
+[16:12:38] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement simpleplanes:recipes/plane_ft
 com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:ft_cherry_helicopter'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -201,7 +194,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:ft_cherry_heli
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[20:18:36] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement simpleplanes:recipes/plane_byg
+[16:12:38] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement simpleplanes:recipes/plane_byg
 com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:byg_aspen_helicopter'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -229,7 +222,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:byg_aspen_heli
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[20:18:36] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement simpleplanes:recipes/plane_bop
+[16:12:38] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement simpleplanes:recipes/plane_bop
 com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_helicopter'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -257,41 +250,40 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[20:18:36] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 514 advancements
-[20:18:36] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2dd644be)
-[20:18:36] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2dd644be)
-[20:18:36] [Server thread/INFO] [FML]: Loading dimension 111 (world) (net.minecraft.server.dedicated.DedicatedServer@2dd644be)
-[20:18:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[20:18:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 23%
-[20:18:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 84%
-[20:18:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.553s)! For help, type "help" or "?"
-[20:18:38] [Server thread/WARN] [voicechat]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[20:18:38] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice chat server started at port 24454
-[20:18:39] [Server thread/INFO] [FML]: Unloading dimension -1
-[20:18:39] [Server thread/INFO] [FML]: Unloading dimension 1
-[20:18:39] [Server thread/INFO] [FML]: Unloading dimension 111
-[20:19:24] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
-[20:24:14] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[20:24:14] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.26,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,vehicle@0.44.1,mcp@9.42,gravestone@1.10.3,securitycraft@v1.9.12,toughasnails@3.1.0.141,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,mw@0.7.1,simpleplanes@3.0.1.7,appleskin@1.0.14,cfm@6.3.0,antiqueatlasoverlay@1.2,xlfoodmod@1.12.2-1.9.2,firstaid@1.6.22,forge@14.23.5.2859,backpack@3.0.2,playerrevive@1.0,antiqueatlas@4.6.3
-[20:24:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:24:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Elias234Yt[/100.86.89.106:52900] logged in with entity id 305 at (114.5, 72.0, 259.5)
-[20:24:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elias234Yt joined the game
-[20:24:16] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Elias234Yt
-[20:24:16] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Elias234Yt
-[20:24:18] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Received secret request of Elias234Yt (18)
-[20:24:18] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Sent secret to Elias234Yt
-[20:24:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 994360aa-a4ec-3596-b6f3-a3246547eeba
-[20:24:21] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 994360aa-a4ec-3596-b6f3-a3246547eeba
-[20:24:21] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Elias234Yt (994360aa-a4ec-3596-b6f3-a3246547eeba) successfully connected to voice chat
-[20:24:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Elias234Yt lost connection: Disconnected
-[20:24:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elias234Yt left the game
-[20:24:37] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Elias234Yt
-[20:27:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[20:27:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[20:27:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[20:27:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[20:27:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[20:27:58] [Server thread/INFO] [FML]: Unloading dimension 0
-[20:27:58] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[20:27:58] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[20:27:58] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:12:38] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 514 advancements
+[16:12:39] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2c99f4f6)
+[16:12:39] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2c99f4f6)
+[16:12:39] [Server thread/INFO] [FML]: Loading dimension 111 (world) (net.minecraft.server.dedicated.DedicatedServer@2c99f4f6)
+[16:12:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[16:12:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 2%
+[16:12:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 20%
+[16:12:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 46%
+[16:12:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 73%
+[16:12:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (7.281s)! For help, type "help" or "?"
+[16:12:43] [Server thread/WARN] [voicechat]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[16:12:44] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice chat server started at port 24454
+[16:12:44] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:12:44] [Server thread/INFO] [FML]: Unloading dimension 1
+[16:12:44] [Server thread/INFO] [FML]: Unloading dimension 111
+[16:13:29] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[16:20:15] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[16:20:15] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 25 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.26,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,vehicle@0.44.1,mcp@9.42,gravestone@1.10.3,securitycraft@v1.9.12,toughasnails@3.1.0.141,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,simpleplanes@3.0.1.7,appleskin@1.0.14,cfm@6.3.0,antiqueatlasoverlay@1.2,xlfoodmod@1.12.2-1.9.2,firstaid@1.6.22,forge@14.23.5.2860,backpack@3.0.2,playerrevive@1.0,antiqueatlas@4.6.3
+[16:20:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:20:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: zIntxr[/100.84.9.39:60131] logged in with entity id 303 at (121.81206268190697, 101.0, 254.52297512837745)
+[16:20:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr joined the game
+[16:20:19] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player zIntxr
+[16:20:19] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player zIntxr
+[16:20:26] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Received secret request of zIntxr (18)
+[16:20:26] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Sent secret to zIntxr
+[16:20:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: zIntxr lost connection: Timed out
+[16:20:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr left the game
+[16:20:49] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client zIntxr
+[16:21:24] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[16:21:24] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 25 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.26,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,vehicle@0.44.1,mcp@9.42,gravestone@1.10.3,securitycraft@v1.9.12,toughasnails@3.1.0.141,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,simpleplanes@3.0.1.7,appleskin@1.0.14,cfm@6.3.0,antiqueatlasoverlay@1.2,xlfoodmod@1.12.2-1.9.2,firstaid@1.6.22,forge@14.23.5.2860,backpack@3.0.2,playerrevive@1.0,antiqueatlas@4.6.3
+[16:21:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:21:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: zIntxr[/100.84.9.39:60149] logged in with entity id 19197 at (121.81206268190697, 101.0, 254.52297512837745)
+[16:21:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr joined the game
+[16:21:28] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player zIntxr
+[16:21:28] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player zIntxr
+[16:21:32] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Received secret request of zIntxr (18)
+[16:21:32] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Sent secret to zIntxr
