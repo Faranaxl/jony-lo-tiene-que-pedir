@@ -12595,3 +12595,180 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [16:21:32] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with zIntxr
 [16:21:32] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Sent secret to zIntxr
 [16:21:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:21:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player e5c79dd7-dcaa-32c8-be7c-fbac4e1daca9
+[16:21:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zIntxr> asd
+[16:21:54] [Server thread/DEBUG] [FML]: The world 2a49130 (world) may have leaked: seen 55 times.
+
+[16:21:54] [Server thread/DEBUG] [FML]: The world 557afbfb (world) may have leaked: seen 55 times.
+
+[16:21:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player e5c79dd7-dcaa-32c8-be7c-fbac4e1daca9
+[16:21:54] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of zIntxr to connected: {disabled=false, disconnected=false, uuid=e5c79dd7-dcaa-32c8-be7c-fbac4e1daca9, name=zIntxr, group=null}
+[16:21:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player zIntxr (e5c79dd7-dcaa-32c8-be7c-fbac4e1daca9) successfully connected to voice chat
+[16:21:54] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of zIntxr: {disabled=true, disconnected=false, uuid=e5c79dd7-dcaa-32c8-be7c-fbac4e1daca9, name=zIntxr, group=null}
+[16:22:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: zIntxr moved too quickly! -2.9878044203453413,-9.127242061530353,-4.779092814624505
+[16:22:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zIntxr> qq
+[16:22:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zIntxr> asd
+[16:22:44] [Server thread/DEBUG] [FML]: The world 2a49130 (world) may have leaked: seen 60 times.
+
+[16:22:44] [Server thread/DEBUG] [FML]: The world 557afbfb (world) may have leaked: seen 60 times.
+
+[16:22:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zIntxr: Set the time to 1000]
+[16:23:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:23:21] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of zIntxr: {disabled=false, disconnected=false, uuid=e5c79dd7-dcaa-32c8-be7c-fbac4e1daca9, name=zIntxr, group=null}
+[16:23:34] [Server thread/DEBUG] [FML]: The world 2a49130 (world) may have leaked: seen 65 times.
+
+[16:23:34] [Server thread/DEBUG] [FML]: The world 557afbfb (world) may have leaked: seen 65 times.
+
+[16:23:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:24:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr is bleeding...
+[16:24:18] [Server thread/WARN] [firstaid]: Player zIntxr not waiting for help!
+[16:24:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr was slain by Spider
+[16:24:18] [Server thread/WARN] [firstaid]: Player zIntxr not waiting for help!
+[16:24:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr died
+[16:24:18] [Server thread/ERROR] [gravestone]: LivingDropsEvent fired multiple times!
+[16:24:24] [Server thread/DEBUG] [FML]: The world 2a49130 (world) may have leaked: seen 70 times.
+
+[16:24:24] [Server thread/DEBUG] [FML]: The world 557afbfb (world) may have leaked: seen 70 times.
+
+[16:24:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zIntxr: Changing to clear weather]
+[16:24:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:24:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zIntxr> asd
+[16:25:14] [Server thread/DEBUG] [FML]: The world 2a49130 (world) may have leaked: seen 75 times.
+
+[16:25:14] [Server thread/DEBUG] [FML]: The world 557afbfb (world) may have leaked: seen 75 times.
+
+[16:25:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr is bleeding...
+[16:25:27] [Server thread/WARN] [firstaid]: Player zIntxr not waiting for help!
+[16:25:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr was slain by Assimilated Enderman
+[16:25:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:26:04] [Server thread/DEBUG] [FML]: The world 2a49130 (world) may have leaked: seen 80 times.
+
+[16:26:04] [Server thread/DEBUG] [FML]: The world 557afbfb (world) may have leaked: seen 80 times.
+
+[16:26:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: zIntxr lost connection: Disconnected
+[16:26:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr left the game
+[16:26:07] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of zIntxr
+[16:26:07] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client zIntxr
+[16:26:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:26:18] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:26:18] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:26:18] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:26:20] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:26:20] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[16:26:20] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:25 mods->FMLHandshakeServerState$2:HELLO
+[16:26:20] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 25 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.26,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,vehicle@0.44.1,mcp@9.42,gravestone@1.10.3,securitycraft@v1.9.12,toughasnails@3.1.0.141,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,simpleplanes@3.0.1.7,appleskin@1.0.14,cfm@6.3.0,antiqueatlasoverlay@1.2,xlfoodmod@1.12.2-1.9.2,firstaid@1.6.22,forge@14.23.5.2860,backpack@3.0.2,playerrevive@1.0,antiqueatlas@4.6.3
+[16:26:20] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[16:26:20] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:26:20] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[16:26:24] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:26:24] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[16:26:24] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:26:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:26:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: zIntxr[/100.84.9.39:60175] logged in with entity id 177482 at (113.1428371224835, 101.0, 253.37332755934207)
+[16:26:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr joined the game
+[16:26:24] [Server thread/DEBUG] [firstaid]: Sending damage model to zIntxr
+[16:26:24] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player zIntxr
+[16:26:24] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player zIntxr
+[16:26:24] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of zIntxr: {disabled=false, disconnected=true, uuid=e5c79dd7-dcaa-32c8-be7c-fbac4e1daca9, name=zIntxr, group=null}
+[16:26:25] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:26:28] [Netty Epoll Server IO #3/INFO] [voicechat]: [voicechat] Received secret request of zIntxr (18)
+[16:26:28] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Sending initial states to zIntxr
+[16:26:28] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with zIntxr
+[16:26:28] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with zIntxr
+[16:26:28] [Netty Epoll Server IO #3/INFO] [voicechat]: [voicechat] Sent secret to zIntxr
+[16:26:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: zIntxr lost connection: Timed out
+[16:26:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr left the game
+[16:26:45] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of zIntxr
+[16:26:45] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client zIntxr
+[16:26:54] [Server thread/DEBUG] [FML]: The world 2a49130 (world) may have leaked: seen 85 times.
+
+[16:26:54] [Server thread/DEBUG] [FML]: The world 557afbfb (world) may have leaked: seen 85 times.
+
+[16:26:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:26:59] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:26:59] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:26:59] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:26:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:26:59] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[16:26:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:25 mods->FMLHandshakeServerState$2:HELLO
+[16:26:59] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 25 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.26,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,vehicle@0.44.1,mcp@9.42,gravestone@1.10.3,securitycraft@v1.9.12,toughasnails@3.1.0.141,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,simpleplanes@3.0.1.7,appleskin@1.0.14,cfm@6.3.0,antiqueatlasoverlay@1.2,xlfoodmod@1.12.2-1.9.2,firstaid@1.6.22,forge@14.23.5.2860,backpack@3.0.2,playerrevive@1.0,antiqueatlas@4.6.3
+[16:26:59] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[16:26:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:26:59] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[16:27:02] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:27:02] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[16:27:02] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:27:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:27:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: zIntxr[/100.84.9.39:60176] logged in with entity id 193359 at (113.1428371224835, 101.0, 253.37332755934207)
+[16:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr joined the game
+[16:27:02] [Server thread/DEBUG] [firstaid]: Sending damage model to zIntxr
+[16:27:02] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player zIntxr
+[16:27:02] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player zIntxr
+[16:27:02] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of zIntxr: {disabled=false, disconnected=true, uuid=e5c79dd7-dcaa-32c8-be7c-fbac4e1daca9, name=zIntxr, group=null}
+[16:27:02] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:27:06] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Received secret request of zIntxr (18)
+[16:27:06] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Sending initial states to zIntxr
+[16:27:06] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with zIntxr
+[16:27:06] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with zIntxr
+[16:27:06] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Sent secret to zIntxr
+[16:27:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: zIntxr lost connection: Disconnected
+[16:27:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr left the game
+[16:27:29] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of zIntxr
+[16:27:29] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client zIntxr
+[16:27:40] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:27:40] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:27:40] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:27:40] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:27:40] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[16:27:40] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:25 mods->FMLHandshakeServerState$2:HELLO
+[16:27:40] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 25 mods : minecraft@1.12.2,voicechat@1.12.2-2.5.26,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,vehicle@0.44.1,mcp@9.42,gravestone@1.10.3,securitycraft@v1.9.12,toughasnails@3.1.0.141,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,srparasites@1.9.21,simpleplanes@3.0.1.7,appleskin@1.0.14,cfm@6.3.0,antiqueatlasoverlay@1.2,xlfoodmod@1.12.2-1.9.2,firstaid@1.6.22,forge@14.23.5.2860,backpack@3.0.2,playerrevive@1.0,antiqueatlas@4.6.3
+[16:27:40] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[16:27:41] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:27:41] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[16:27:43] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:27:43] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[16:27:43] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:27:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:27:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: zIntxr[/100.84.9.39:60177] logged in with entity id 214792 at (113.1428371224835, 101.0, 253.37332755934207)
+[16:27:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr joined the game
+[16:27:43] [Server thread/DEBUG] [firstaid]: Sending damage model to zIntxr
+[16:27:43] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player zIntxr
+[16:27:43] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player zIntxr
+[16:27:43] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of zIntxr: {disabled=false, disconnected=true, uuid=e5c79dd7-dcaa-32c8-be7c-fbac4e1daca9, name=zIntxr, group=null}
+[16:27:43] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:27:44] [Server thread/DEBUG] [FML]: The world 2a49130 (world) may have leaked: seen 90 times.
+
+[16:27:44] [Server thread/DEBUG] [FML]: The world 557afbfb (world) may have leaked: seen 90 times.
+
+[16:27:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:27:47] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Received secret request of zIntxr (18)
+[16:27:47] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Sending initial states to zIntxr
+[16:27:47] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with zIntxr
+[16:27:47] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with zIntxr
+[16:27:47] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Sent secret to zIntxr
+[16:28:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: zIntxr lost connection: Disconnected
+[16:28:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zIntxr left the game
+[16:28:15] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of zIntxr
+[16:28:15] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client zIntxr
+[16:28:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:28:34] [Server thread/DEBUG] [FML]: The world 2a49130 (world) may have leaked: seen 95 times.
+
+[16:28:34] [Server thread/DEBUG] [FML]: The world 557afbfb (world) may have leaked: seen 95 times.
+
+[16:29:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:29:24] [Server thread/DEBUG] [FML]: The world 2a49130 (world) may have leaked: seen 100 times.
+
+[16:29:24] [Server thread/DEBUG] [FML]: The world 557afbfb (world) may have leaked: seen 100 times.
+
+[16:29:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:30:14] [Server thread/DEBUG] [FML]: The world 2a49130 (world) may have leaked: seen 105 times.
+
+[16:30:14] [Server thread/DEBUG] [FML]: The world 557afbfb (world) may have leaked: seen 105 times.
+
+[16:30:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:31:04] [Server thread/DEBUG] [FML]: The world 2a49130 (world) may have leaked: seen 110 times.
+
+[16:31:04] [Server thread/DEBUG] [FML]: The world 557afbfb (world) may have leaked: seen 110 times.
+
+[16:31:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
